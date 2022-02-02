@@ -16,12 +16,8 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 
 <script src="https://cdn.tailwindcss.com"></script>
-<script src="js/login.js"></script>
-<script src="js/main.js"></script>
-<script src="js/preloader.js"></script>
-<script src="js/model.js"></script>
-<script src="js/tailwind-css.js"></script>
- <div id="fb-root"></div>
+
+ 
    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v12.0&appId=1830984103744830&autoLogAppEvents=1" nonce="vybGXkGE"></script>
@@ -113,14 +109,6 @@ form h3{
   margin-top: 10px;
   color: #7D2AE8;
 }
-.data-iframe{
-    display:none;
-}
-.iframe{
-    width:700px;
-    height:1400px;
-    margin-left:10%;
-}
 
   </style>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"/></script>
@@ -182,26 +170,9 @@ form h3{
    
   </div>
 <!-- Button trigger modal -->
-<button type="button" class="btn btn-primary" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
-  Launch demo modal
-</button>
 
-<!-- Modal -->
-<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
-        <button type="button" class="btn-close" data-mdb-dismiss="modal" aria-label="Close"></button>
-      </div>
-      <div class="modal-body">...</div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-mdb-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
-      </div>
-    </div>
-  </div>
-</div>
+
+
 </nav>
 
 <br>
